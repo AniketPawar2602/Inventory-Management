@@ -83,4 +83,4 @@ Run the executable:
 ## 🙌 Author
 
 **Aniket Satish Pawar**  
-🔗 LinkedIn: https://www.linkedin.com/in/aniket-pawar-2b8587271/
+🔗 [LinkedIn](https://www.linkedin.com/in/aniket-pawar-2b8587271/)
